@@ -1,0 +1,11 @@
+html{
+	text-align: center;
+}
+
+.cat{
+	background: url("img/norfolkjs.png") no-repeat;
+	background-size:contain;
+	width:300px;
+	height:300px;
+	margin:auto;
+}
